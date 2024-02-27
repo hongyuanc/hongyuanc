@@ -1,6 +1,6 @@
 - Hi, I’m @hongyuanc
 - I'm play a lot of video games - interested in game design
-- Currently learning Javascript and C
+- Currently learning Pygame
 - Email: hong.cao0824@gmail.com
 
 - I'm currently just working on some beginning projects to start off,
