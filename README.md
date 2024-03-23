@@ -1,5 +1,5 @@
 - Hi, I’m @hongyuanc
-- I'm play a lot of video games - interested in game design
+- I play a lot of video games - interested in game design
 - Currently learning Pygame
 - Email: hong.cao0824@gmail.com
 
