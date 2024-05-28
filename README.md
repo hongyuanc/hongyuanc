@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://github.com/hongyuanc?tab=repositories">
-        <img alt="my repos" title="check out my repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=white&logo=repo"/>
+        <img alt="my repos" title="check out my repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
         </a>
     <a href="https://en.wikipedia.org/wiki/August_24">
         <img alt="age" title="click for my birthday" src="https://img.shields.io/badge/Age-19-plum?style=for-the-badge">
