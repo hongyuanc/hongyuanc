@@ -1,12 +1,7 @@
-- Hi, I’m @hongyuanc
-- I play a lot of video games - interested in game design
-- Currently learning Pygame
-- Email: hong.cao0824@gmail.com
+# Hong Yuan Cao
 
-- I'm currently just working on some beginning projects to start off,
-- hopefully I'll get to harder and more interesting ones soon.
+**`Undergraduate Student @ Boston University`**
 
-<!---
-hongyuanc/hongyuanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+    <a href="https://github.com/hongyuanc?tab=repositories">
+        <src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo">
