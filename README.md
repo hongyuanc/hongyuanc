@@ -8,7 +8,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
     <a href="https://github.com/hongyuanc?tab=repositories">
         <img alt="my repos" title="check out my repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
         </a>
-    <a mailto:hong.cao0824@gmail.com>
+    <a href="mailto:hong.cao0824@gmail.com">
         <img alt="email" title="reach out to me!" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
         </a>
     <a href="https://en.wikipedia.org/wiki/August_24">
