@@ -12,7 +12,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
         <img alt="email" title="reach out to me!" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
         </a>
     <a href="https://en.wikipedia.org/wiki/August_24">
-        <img alt="age" title="click for my birthday" src="https://img.shields.io/badge/Age-19-plum?style=for-the-badge">
+        <img alt="age" title="click for my birthday" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
         </a>
     <a href="https://en.wikipedia.org/wiki/Boston">
         <img alt="where I live" title="Boston" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
