@@ -4,21 +4,20 @@
 
 Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have a double major in **economics** and **computer science**, and I'm fairly interested in coding and working on projects (all sorts). I'm also very interested in the broader topic of **videogames**, so I've been recently looking at **pygame** and **godot**. Always open to collaborate on building a game or any related projects!
 
-
-<a href="https://github.com/hongyuanc?tab=repositories">
-    <img align="left" alt="my repos" title="check out my repositories" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
-    </a>
-<a href="mailto:hong.cao0824@gmail.com">
-    <img align="left" alt="email" title="reach out to me!" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
-    </a>
-<a href="https://en.wikipedia.org/wiki/August_24">
-    <img align="left" alt="age" title="click for my birthday" style="padding-right:1px" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
-    </a>
-<a href="https://en.wikipedia.org/wiki/Boston">
-    <img align="left" alt="where I live" title="Boston" style="padding-right:1px" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
-    </a>
-<br/>
-<br/>
+<p align="left">
+    <a href="https://github.com/hongyuanc?tab=repositories">
+        <img align="left" alt="my repos" title="check out my repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
+        </a>
+    <a href="mailto:hong.cao0824@gmail.com">
+        <img align="left" alt="email" title="reach out to me!" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
+        </a>
+    <a href="https://en.wikipedia.org/wiki/August_24">
+        <img align="left" alt="age" title="click for my birthday" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
+        </a>
+    <a href="https://en.wikipedia.org/wiki/Boston">
+        <img align="left" alt="where I live" title="Boston" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
+        </a>
+</p>
 
 ---
 
@@ -40,6 +39,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 ---
 
 ### Favorite Games (Click below for more detail)
+
 
 <a href="https://en.wikipedia.org/wiki/Hades_(video_game)">
     <img align="left" alt="Games" title="Hades" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"/>
