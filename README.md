@@ -73,8 +73,10 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 ### Stats
 
 <a href="https://github.com/hongyuanc?tab=repositories">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
+    <img align="left" src="https://raw.githubusercontent.com/hongyuanc/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
     </a>
 
-#
+<a href="https://github.com/hongyuanc?tab=repositories">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
+    </a>
 
