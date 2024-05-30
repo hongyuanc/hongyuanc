@@ -19,6 +19,8 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
         </a>
 </p>
 
+---
+
 ### Languages and Tools
 
-<img align="left" alt="Python" width="30px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Python" width="50px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
