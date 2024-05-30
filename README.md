@@ -42,7 +42,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 <p align="left">
     <a href="https://github.com/hongyuanc?tab=repositories">
-        <img alt="my repos" title="check out my repositories" src="https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"/>
+        <img alt="Games" title="Hades" width="50px" sytle="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"/>
         </a>
 
 
