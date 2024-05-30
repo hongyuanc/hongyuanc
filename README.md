@@ -40,32 +40,31 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 ### Favorite Games (Click below for more detail)
 
-<p align="left">
-    <a href="https://en.wikipedia.org/wiki/Hades_(video_game)">
-        <img alt="Games" title="Hades" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"/>
-        </a>
-    <a href="https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice">
-        <img alt="Games" title="Sekiro" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/adf880d5c8986bd0deb6423c92c9d948/32/512x512.png"/>
-        </a>
-     <a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">
-        <img alt="Games" title="God of War" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/ed54434568d56806c4360d1e787ac70e/32/256x256.png"/>
-        </a>
-     <a href="https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive">
-        <img alt="Games" title="yes, csgo not cs2" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/6a1daa960984b0d1b4f1b644e9e6917e/32/256x256.png"/>
-        </a>
-     <a href="https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six">
-        <img alt="Games" title="Tom Clancy's Rainbow Six Siege" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/1387a00f03b4b423e63127b08c261bdc/32/256x256.png"/>
-        </a>
-     <a href="https://en.wikipedia.org/wiki/Apex_Legends">
-        <img alt="Games" title="Apex Legends" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/00106ac9184e7d54b570d0f0cb0c38b2/32/256x256.png"/>
-        </a>
-     <a href="https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light">
-        <img alt="Games" title="FTL: Faster Than Light" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/7137debd45ae4d0ab9aa953017286b20/32/64x64.png"/>
-        </a>
-     <a href="https://en.wikipedia.org/wiki/Dead_by_Daylight">
-        <img alt="Games" title="Dead by Daylight" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/29ec8066dea8748449b852688c46ee5a/32/256x256.png"/>
-        </a>
-</p>
+
+<a href="https://en.wikipedia.org/wiki/Hades_(video_game)">
+    <img align="left" alt="Games" title="Hades" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"/>
+    </a>
+<a href="https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice">
+    <img align="left" alt="Games" title="Sekiro" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/adf880d5c8986bd0deb6423c92c9d948/32/512x512.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)">
+    <img align="left" alt="Games" title="God of War" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/ed54434568d56806c4360d1e787ac70e/32/256x256.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive">
+    <img align="left" alt="Games" title="yes, csgo not cs2" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/6a1daa960984b0d1b4f1b644e9e6917e/32/256x256.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six">
+    <img align="left" alt="Games" title="Tom Clancy's Rainbow Six Siege" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/1387a00f03b4b423e63127b08c261bdc/32/256x256.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Apex_Legends">
+    <img align="left" alt="Games" title="Apex Legends" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/00106ac9184e7d54b570d0f0cb0c38b2/32/256x256.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light">
+    <img align="left" alt="Games" title="FTL: Faster Than Light" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/7137debd45ae4d0ab9aa953017286b20/32/64x64.png"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Dead_by_Daylight">
+    <img align="left" alt="Games" title="Dead by Daylight" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/29ec8066dea8748449b852688c46ee5a/32/256x256.png"/>
+    </a>
 
 
 
