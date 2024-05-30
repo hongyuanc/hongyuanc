@@ -6,16 +6,16 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 <p align="left" style="line-height: 0;">
     <a href="https://github.com/hongyuanc?tab=repositories" style="text-decoration:none;">
-        <img alt="my repos" title="check out my repositories" style="display: block;" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
+        <img alt="my repos" title="check out my repositories" style="display: inline-block; vertical-align: middle; margin: 0; padding: 0;" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
     </a>
     <a href="mailto:hong.cao0824@gmail.com" style="text-decoration:none;">
-        <img alt="email" title="reach out to me!" style="display: block;" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
+        <img alt="email" title="reach out to me!" style="display: inline-block; vertical-align: middle; margin: 0; padding: 0;" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
     </a>
     <a href="https://en.wikipedia.org/wiki/August_24" style="text-decoration:none;">
-        <img alt="age" title="click for my birthday" style="display: block;" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
+        <img alt="age" title="click for my birthday" style="display: inline-block; vertical-align: middle; margin: 0; padding: 0;" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
     </a>
     <a href="https://en.wikipedia.org/wiki/Boston" style="text-decoration:none;">
-        <img alt="where I live" title="Boston" style="display: block;" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
+        <img alt="where I live" title="Boston" style="display: inline-block; vertical-align: middle; margin: 0; padding: 0;" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
     </a>
 </p>
 
