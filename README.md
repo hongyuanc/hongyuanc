@@ -65,6 +65,16 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 <a href="https://en.wikipedia.org/wiki/Dead_by_Daylight">
     <img align="left" alt="Games" title="Dead by Daylight" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/29ec8066dea8748449b852688c46ee5a/32/256x256.png"/>
     </a>
+<br />
+<br />
 
+---
 
+### Stats
+
+<a href="https://github.com/hongyuanc?tab=repositories">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
+    </a>
+
+#
 
