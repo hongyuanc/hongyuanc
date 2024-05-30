@@ -18,3 +18,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
         <img alt="where I live" title="Boston" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
         </a>
 </p>
+
+### Languages and Tools
+
+<img align="left" alt="Python" width="30px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
