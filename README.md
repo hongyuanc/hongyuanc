@@ -72,9 +72,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 ### Stats
 
-<a href="https://github.com/hongyuanc?tab=repositories">
-    <img align="left" src="https://raw.githubusercontent.com/hongyuanc/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    </a>
+As you can see I am python specialist. Jokes aside, I will branch out my language pool asap.
 
 <a href="https://github.com/hongyuanc?tab=repositories">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
