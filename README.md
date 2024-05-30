@@ -31,10 +31,8 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 <img align="left" alt="VScode" width="50px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <a href="https://godotengine.org/">
     <img align="left" alt="Godot" width="50px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-<a href="https://git-scm.com/">    
-    <img align="left" alt="Git" width="50px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Git" width="50px" sytle="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-</p>
 
 ---
 
