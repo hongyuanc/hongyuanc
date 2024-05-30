@@ -6,16 +6,16 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 
 <a href="https://github.com/hongyuanc?tab=repositories">
-    <img align="left" alt="my repos" title="check out my repositories" style="margin-right: 5px;" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
+    <img align="left" alt="my repos" title="check out my repositories" style="margin-right: 1px;" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
     </a>
 <a href="mailto:hong.cao0824@gmail.com">
-    <img align="left" alt="email" title="reach out to me!" style="margin-right: 5px;" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
+    <img align="left" alt="email" title="reach out to me!" style="margin-right: 1px;" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
     </a>
 <a href="https://en.wikipedia.org/wiki/August_24">
-    <img align="left" alt="age" title="click for my birthday" style="margin-right: 5px;" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
+    <img align="left" alt="age" title="click for my birthday" style="margin-right: 1px;" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
     </a>
 <a href="https://en.wikipedia.org/wiki/Boston">
-    <img align="left" alt="where I live" title="Boston" style="margin-right: 5px;" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
+    <img align="left" alt="where I live" title="Boston" style="margin-right: 1px;" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
     </a>
 <br />
 <br />
