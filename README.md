@@ -79,10 +79,3 @@ As you can see I am python specialist. Jokes aside, I will branch out my languag
     </a>
 <br/>
 <br/>
-
----
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
