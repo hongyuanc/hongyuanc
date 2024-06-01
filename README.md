@@ -74,28 +74,25 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 As you can see I am python specialist. Jokes aside, I will branch out my language pool asap.
 
-<a href="https://github.com/hongyuanc?tab=repositories">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
+<div style="overflow: hidden;">
+    <a href="https://github.com/hongyuanc?tab=repositories" style="float: left; margin-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
     </a>
-<br />
-<br />
-<br />
-<br />
-<br />
+    <hr style="clear: both;">
+    <picture style="margin-top: 0;">
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+        />
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+        />
+        <img
+            alt="github contribution grid snake animation"
+            src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+        />
+    </picture>
+</div>
 
-#
 
-<picture align="left">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
