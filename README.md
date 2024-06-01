@@ -77,4 +77,12 @@ As you can see I am python specialist. Jokes aside, I will branch out my languag
 <a href="https://github.com/hongyuanc?tab=repositories">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
     </a>
+<br/>
+<br/>
+
+---
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
