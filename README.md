@@ -2,7 +2,7 @@
 
 **`Undergraduate Student @ Boston University`**
 
-Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have a double major in **economics** and **computer science**, and I'm fairly interested in coding and working on projects (all sorts). I'm also very interested in the broader topic of **videogames**, so I've been recently looking at **pygame** and **godot**. Always open to collaborate on building a game or any related projects!
+Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have a double major in **economics** and **computer science**, and I'm fairly interested in coding and working on projects (all sorts). I'm also very interested in the broader topic of **videogames**, so I've been recently looking at **pygame** and **godot**. However, I am passionate about exploring and experiencing a wide range of fields, like **finance** and **AI** related projects I am also currently working on. Always open to collaborate on building a game or any related projects!
 
 <p align="left">
     <a href="https://github.com/hongyuanc?tab=repositories">
@@ -38,7 +38,7 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 ---
 
-### Favorite Games (Click below for more detail)
+### Favorite Games
 
 
 <a href="https://en.wikipedia.org/wiki/Hades_(video_game)">
