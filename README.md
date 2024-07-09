@@ -5,18 +5,14 @@
 Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have a double major in **economics** and **computer science**, and I'm fairly interested in coding and working on projects (all sorts). I'm also very interested in the broader topic of **videogames**, so I've been recently looking at **pygame** and **godot**. However, I am passionate about exploring and experiencing a wide range of fields, like **finance** and **AI** related projects I am also currently working on. Always open to collaborate on building a game or any related projects!
 
 <p align="left">
-    <a href="https://github.com/hongyuanc?tab=repositories">
-        <img alt="my repos" title="check out my repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-palegreen?style=for-the-badge&logoColor=black&logo=repo"/>
-        </a>
-    <a href="mailto:hong.cao0824@gmail.com">
-        <img alt="email" title="reach out to me!" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-teal?style=for-the-badge&logo=mention&logoColor=white">
-        </a>
-    <a href="https://en.wikipedia.org/wiki/August_24">
-        <img alt="age" title="click for my birthday" src="https://img.shields.io/badge/Age-19-F25278?style=for-the-badge">
-        </a>
-    <a href="https://en.wikipedia.org/wiki/Boston">
-        <img alt="where I live" title="Boston" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-blue?style=for-the-badge&logo=location&logoColor=white">
-        </a>
+<a href="https://github.com/hongyuanc?tab=repositories">
+    <img alt="my repos" title="Check out my repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-4CAF50?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="mailto:hong.cao0824@gmail.com">
+    <img alt="email" title="Reach out to me!" src="https://custom-icon-badges.demolab.com/badge/-hong.cao0824@gmail.com-00897B?style=for-the-badge&logo=mention&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/August_24">
+    <img alt="age" title="Click for my birthday" src="https://img.shields.io/badge/Age-19-FFA726?style=for-the-badge"></a>
+<a href="https://en.wikipedia.org/wiki/Boston">
+    <img alt="where I live" title="Boston" src="https://custom-icon-badges.demolab.com/badge/Boston-MA-1E88E5?style=for-the-badge&logo=location&logoColor=white"></a>
 </p>
 
 ---
@@ -72,11 +68,8 @@ Hi I'm Hong, welcome to my github! Allow me to quickly introduce myself: I have 
 
 ### Stats
 
-As you can see I am python specialist. Jokes aside, I will branch out my language pool asap.
-
 <div style="overflow: hidden;">
     <a href="https://github.com/hongyuanc?tab=repositories" style="float: left; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&theme=merko&hide=vim%20snippet" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyuanc&layout=compact&langs_count=10&theme=tokyonight&card_width=445" />
     </a>
-
 
