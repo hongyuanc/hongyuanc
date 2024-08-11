@@ -6,9 +6,8 @@
 
 I'm Hong, a Computer Science and Economics student passionate about:
 - Game development
-- Videogames
-- Artificial intelligence
 - Software engineering
+- Artificial intelligence
 
 ### Current Focus
 I'm working on Godot and Unity projects using GDScript and C#, also learning Django and React.
