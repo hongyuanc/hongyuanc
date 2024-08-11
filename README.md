@@ -11,7 +11,7 @@ I'm Hong, a Computer Science and Economics student passionate about:
 - Software engineering
 
 ### Current Focus
-I'm working on Godot and Unity projects using GDScript and C#.
+I'm working on Godot and Unity projects using GDScript and C#, also learning Django and React.
 
 <p align="left">
 <a href="https://github.com/hongyuanc?tab=repositories">
