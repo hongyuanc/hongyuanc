@@ -49,7 +49,9 @@ I'm working on Godot and Unity projects using GDScript and C#, also learning Dja
 
 ### Favorite Games
 
-
+<a href="https://www.youtube.com/watch?v=YYD2Kyz4-X4">
+    <img align="left" alt="Games" title="BLACK MYTH WUKONG" width ="50px" syle="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/933e02678cfa0ad61c6fcb918c91e0b3/32/512x512.png">
+    </a>
 <a href="https://en.wikipedia.org/wiki/Hades_(video_game)">
     <img align="left" alt="Games" title="Hades" width="50px" style="padding-right:10px" src="https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png"/>
     </a>
